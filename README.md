@@ -17,6 +17,12 @@ flutter devices (list all devices in your computer)
 flutter run (run project over your computer)
 flutter build android/ios (deploy)
 
+## About me
+
+[About me on the website](https://gutierrez.dev.br "Gutierrez.Dev.BR")
+
+### Good Bay, See You
+
 # PT Cronometro
 
 ## Meu projeto
@@ -34,6 +40,8 @@ flutter devices (liste todos os dispositivos do computador)
 flutter run (execute o projeto no computador)
 flutter build android/ios (deploy)
 
-## About me
+## Sobre mim
 
-[About me on the website](https://gutierrez.dev.br "Gutierrez.Dev.BR")
+[Sobre mim em meu website](https://gutierrez.dev.br "Gutierrez.Dev.BR")
+
+### Tchau até mais
